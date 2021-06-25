@@ -1,0 +1,172 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: helvetica;
+	background: #C70039;
+}
+body{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+div#dos{
+	border: solid 1px #999;
+	background: linear-gradient(90deg,red,#DF30ED);
+	padding: 20px;
+	width: 240px;
+	height: 200px;
+	color: white;
+	font-size: 17px ;
+	text-align: left;
+	margin-top:60px;
+	font-weight: bold;
+	text-shadow: 5px 4px 8px blue;
+}
+div#tres{
+	background: linear-gradient(90deg,red,#DF30ED);
+	color: white;
+	text-align: center;
+	font-size: 20px ;
+	font-weight: bold;
+	text-shadow: 5px 4px 8px blue;
+}
+
+div#h2{
+	margin: auto;
+	padding: 8px;
+	border-radius: 5px;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	width: 600px;
+	background-color:#B80BC6;
+}
+
+div#sucesion{
+	position: absolute;
+	border-radius: 5px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 1200px;
+	height: 500px;
+	background-color: #FFFFFF;
+}
+.captcha{
+	border: solid 1px #999;
+	background: linear-gradient(90deg,red,#DF30ED);
+	padding: 15px;
+	width: 160px;
+	height: 4px;
+	color: white;
+	text-align: center;
+	font-size: 20px ;
+	vertical-align: 20px;
+	margin: 3px;
+	font-weight: bold;
+	text-decoration: line-through ;
+	text-shadow: 5px 4px 8px blue;
+}
+form{
+	border-radius: 5px;
+	color: #999;
+	margin: 0 auto;
+	padding: 10px;
+	width: 300px;
+	height: 350px;
+	font-size: 20px;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	box-shadow: 2px 2px #B80BC6 inset,
+				-2px -2px #B80BC6 inset,
+				350px 0 white inset;
+
+}
+div#imagen{
+	background: white;
+}
+
+a {
+	text-decoration: none;
+	background-color: white;
+}
+
+#img1{
+background-color: white;
+width: 60px;
+height: 60px;
+}
+
+#img2{
+background-color: white;
+width: 200px;
+height: 200px;
+position: absolute;
+right: 10px;
+bottom: 300px;
+}
+#img3{
+background-color: white;
+width: 130px;
+height: 130px;
+position: absolute;
+right: 1050px;
+bottom: 360px;
+}
+
+.field{
+	border: solid 1px #B80BC6;
+	border-radius: 3px;
+	background: linear-gradient(90deg,#B80BC6,#DF30ED);
+	padding: 15px;
+	width: 160px;
+	height: 4px;
+	color: white;
+	text-align: center;
+	font-size: 20px ;
+	margin-left: 20px;
+	margin: 4px;
+}
+#base{
+	border: solid 1px #B80BC6;
+	border-radius: 3px;
+	background: linear-gradient(90deg,#888788,white);
+	padding: 15px;
+	width: 160px;
+	height: 4px;
+	color: white;
+	text-align: center;
+	font-size: 20px ;
+	margin-left: 30px;
+	margin: 4px;
+}
+
+.field2{
+	color: white;
+	border-radius: 3px;
+	font-size: 17px;
+	border: solid 1px #C70039;
+	background-color: #C70039;
+	padding: 10px;
+	width: 100px;
+	position: center;
+	position: absolute;
+	right: 540px;
+	bottom: 50px;
+}
+.field3{
+	border-radius: 3px;
+	font-size: 17px;
+	color: #C70039;
+	font-weight: bold;
+	border: solid 1px white;
+	background-color: white;
+	padding: 10px;
+	width: 100px;
+	position: center;
+	position: absolute;
+	right: 560px;
+	bottom: 400px;
+}
